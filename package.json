@@ -1,0 +1,23 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "The simple micro application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "light-server": "^2.6.3",
+    "rollup": "^1.17.0"
+  },
+  "devDependencies": {
+    "css-loader": "^3.0.0",
+    "html-loader": "^0.5.5",
+    "lite-server": "^2.5.3",
+    "raw-loader": "^3.0.0",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6"
+  }
+}
